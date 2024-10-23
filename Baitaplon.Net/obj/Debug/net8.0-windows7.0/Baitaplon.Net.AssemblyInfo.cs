@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baitaplon.Net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a105a712a6ac2d2963ed3a7e48583dd7a28705")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baitaplon.Net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baitaplon.Net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
